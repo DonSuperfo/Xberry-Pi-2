@@ -14,3 +14,7 @@ This is a ZX Spectrum Next KS2 Clone in the form of Raspberry Pi. It is 100% com
     Header for External SD and 2nd SD card
 
 ![Board](https://github.com/DonSuperfo/Xberry-Pi-2/blob/main/Xberry%20Pi%202.jpg)
+
+![Board](https://github.com/DonSuperfo/Xberry-Pi-2/blob/main/Xberry%20Pi%202%20PCB-1.png)
+
+![Board](https://github.com/DonSuperfo/Xberry-Pi-2/blob/main/Xberry%20Pi%202%20PCB-2.png)
