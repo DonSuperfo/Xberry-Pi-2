@@ -3,7 +3,7 @@ This is a ZX Spectrum Next KS2 Clone in the form of Raspberry Pi. It is 100% com
 
     PCB version 1,
     FPGA: XC7A15T-1CSG324C
-    2MB RAM, 128MBIT Flash ROM
+    2MB RAM, 256MBIT Flash ROM
     RTC onboard with battery backup
     Header for ESP-8266-01 or ESP-8266-12F Module
     Micro HDMI and VGA port
