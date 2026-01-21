@@ -12,3 +12,5 @@ This is a ZX Spectrum Next KS2 Clone in the form of Raspberry Pi. It is 100% com
     PS/2 port for Keyboard/Mouse
     Header for connect to Matrix Keyboard
     Header for External SD and 2nd SD card
+
+![Board](https://github.com/DonSuperfo/Xberry-Pi-2/blob/main/Xberry%20Pi%202.JPG)
