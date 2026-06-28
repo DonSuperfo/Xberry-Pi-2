@@ -15,6 +15,6 @@ This is a ZX Spectrum Next KS2 Clone in the form of Raspberry Pi. It is 100% com
 
 ![Board](https://github.com/DonSuperfo/Xberry-Pi-2/blob/main/Issue%201/Xberry%20Pi%202.jpg)
 
-![Board](https://github.com/DonSuperfo/Xberry-Pi-2/blob/main/Issue%201/Xberry%20Pi%202%202-3.png)
+![Board](https://github.com/DonSuperfo/Xberry-Pi-2/blob/main/Issue%201/Xberry%20Pi%202-3.jpg)
 
-![Board](https://github.com/DonSuperfo/Xberry-Pi-2/blob/main/Issuw%201/Xberry%20Pi%202%202-4.png)
+![Board](https://github.com/DonSuperfo/Xberry-Pi-2/blob/main/Issue%201/Xberry%20Pi%202-4.jpg)
